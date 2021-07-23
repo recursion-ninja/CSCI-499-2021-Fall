@@ -1,17 +1,16 @@
 # CSCI 49900 — Advanced Applications
-
-##### Fall 2021, 4 hrs, 4 credits. Department of Computer Science, Hunter College of the City of New York
-
----
+## Hunter College of the City of New York
 
  | Key | Value |
  |:------------------|:-|
+ | **Section:**      | [CSCI 49900/53432/5][course-description]
+ | **Semester:**     | Fall 2021
+ | **Credit Hours:** | 4 credits
  | **Instructor:**   | Alex Washburn |
  | **Email:**        | [aw2918@hunter.cuny.edu][email] |
  | **Time:**         | [MoTh 13:00 - 15:00][class-time] |
  | **Place:**        | Zoom |
  | **Office Hours:** | [Th 15:00 - 16:00][office-time] or [by appointment][email]
- | **Section:**      | [CSCI 49900/53432/5][course-description]
 
 ## Table of Contents
 
@@ -30,7 +29,9 @@
   * [ADA Compliance](#ada-compliance)
   * [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
   * [Sexual Misconduct](#sexual-misconduct)
- 
+
+---
+
 ## Overview
 
 ## Course Description
@@ -71,13 +72,13 @@ In compliance with the American Disability Act of 1990 (ADA) and with Section 50
 
 ## Family Educational Rights and Privacy Act (FERPA) 
 
-The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education.
+The Family Educational Rights and Privacy Act (FERPA) ([20 U.S.C. § 1232g; 34 CFR Part 99][ferpa-law]) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education.
 
 FERPA gives parents certain rights with respect to their children's education records. These rights transfer to the student when he or she reaches the age of 18 or attends a school beyond the high school level. Students to whom the rights have transferred are "eligible students."
 
 - Parents or eligible students have the right to inspect and review the student's education records maintained by the school. Schools are not required to provide copies of records unless, for reasons such as great distance, it is impossible for parents or eligible students to review the records. Schools may charge a fee for copies.
 - Parents or eligible students have the right to request that a school correct records which they believe to be inaccurate or misleading. If the school decides not to amend the record, the parent or eligible student then has the right to a formal hearing. After the hearing, if the school still decides not to amend the record, the parent or eligible student has the right to place a statement with the record setting forth his or her view about the contested information.
-- Generally, schools must have written permission from the parent or eligible student in order to release any information from a student's education record. However, FERPA allows schools to disclose those records, without consent, to the following parties or under the following conditions (34 CFR § 99.31):
+- Generally, schools must have written permission from the parent or eligible student in order to release any information from a student's education record. However, FERPA allows schools to disclose those records, without consent, to the following parties or under the following conditions ([34 CFR § 99.31][ferpa-law-consent]):
     - School officials with legitimate educational interest;
     - Other schools to which a student is transferring;
     - Specified officials for audit or evaluation purposes;
@@ -114,3 +115,5 @@ b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact
 [zoom]: link-later
 [class-time]: https://time.is/compare/0100PM_in_New_York
 [office-time]: https://time.is/compare/0300PM_in_New_York
+[ferpa-law]: https://www.law.cornell.edu/cfr/text/34/part-99
+[ferpa-law-consent]: https://www.law.cornell.edu/cfr/text/34/99.31
