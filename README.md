@@ -1,40 +1,43 @@
 # CSCI 49900 — Advanced Applications
 ## Hunter College of the City of New York
+## Department of Computer Science
 
- | Key | Value |
- |:------------------|:-|
- | **Section:**      | [CSCI 49900/53432/5][course-description] |
- | **Semester:**     | Fall 2021 |
- | **Credit Hours:** | 4 credits |
- | **Instructor:**   | Alex Washburn |
- | **Email:**        | [aw2918@hunter.cuny.edu][email] |
+ | Key               | Value                                           |
+ |:-|:--------|
+ | **Instructor:**   | Alex Washburn                                   |
+ | **Email:**        | [aw2918@hunter.cuny.edu][email]                 |
+ | **Section:**      | [CSCI 49900/53432/5][course-description]        |
+ | **Semester:**     | Fall 2021                                       |
+ | **Credit Hours:** | 4 credits                                       |
  | **Time:**         | [Monday & Thursday 1:00pm - 3:00pm][class-time] |
- | **Place:**        | Zoom |
  | **Office Hours:** | [Thursday 3:00pm - 4:00pm][office-time] or [by appointment][email] |
+ | **Place:**        | Zoom                                            |
  | **Course Page:**  | [github.com/recursion-ninja/CSCI-499-2021-Fall][course-page] |
- | **Textbook:**     | None |
+ | **Textbook:**     | None                                            |
 
 
-## Table of Contents
+# Table of Contents
 
   * [Overview](#Overview)
   * [Course Description](#course-description)
   * [Course Schedule](#outline-and-schedule-of-course-topics)
   * [Grading](#grading)
-     * [Product Reporting](#product-reporting)
-     * [Minimum Viable Product](#minimum-viable-product)
-     * [Final Product](#final-product)
-  * [Academic Violations](#academic-violations)
-  * [Email](#email)
-  * [Computer Science Facilities &amp; Labs](#computer-science-facilities--labs)
-  * [Counseling &amp; Wellness Services](#counseling--wellness-services)
-  * [Special Needs](#special-needs)
-  * [ADA Compliance](#ada-compliance)
-  * [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
-  * [Sexual Misconduct](#sexual-misconduct)
+      * [Product Reporting](#product-reporting)
+      * [Minimum Viable Product](#minimum-viable-product)
+      * [Final Product](#final-product)
+  * [Standard Information](#standard-information)
+      * [Academic Violations](#academic-violations)
+      * [Email](#email)
+      * [Computer Science Facilities &amp; Labs](#computer-science-facilities--labs)
+      * [Counseling &amp; Wellness Services](#counseling--wellness-services)
+      * [Special Needs](#special-needs)
+      * [Sexual Misconduct](#sexual-misconduct)
+  * [Legal Considerations](#legal-considerations)
+      * [ADA Compliance](#ada-compliance)
+      * [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
 
 
-## Overview
+# Overview
 
 A capstone course which offers a chance for computer science majors to test their mettle on major projects. Working in small groups, they will implement systems that involve at least two platforms running programs written in at least three languages.
 
@@ -57,7 +60,7 @@ Collaborative software develompment is a crucial skill for any computer science 
 Lastly, team performance is an important consideration. Prior to starting on their project, each team will author a "social contract" for their team which outliens the expectations of team members and consequences for failing to meet the expectations. This "social contract" document often includes, stating the preferred medium of communication, setting regular meeting times for collaborative work, expected number of hours each team member will devote to working on the course project each week, how to communicate if a team member cannot meet their obligations for a given week, what to do if a team member consistently doesn't meet their weekly obligations.
 
 
-## Course Description
+# Course Description
 
 The capstone course can be broken up into three phases.
 
@@ -91,10 +94,10 @@ The capstone course can be broken up into three phases.
         - The presentation should demonstrate the final and complete functionality of the project
 
 
-## Course Schedule
+# Course Schedule
 
 | **Mondays** | **Thursdays** | Monday Activities | Thursday Activities |
-|:-----------:|:-------------:|:-----------------|:--------------------|
+|:----:|:----:|:-----------------|:--------------------|
 |             |     08/26     |                     | Syllabus, GitHub, project brainsorming |
 |    08/30    |     09/02     | Group assignments, social contracts | No Class, dedicated work time |
 |             |     09/07     |                     | No Class, dedicated work time |
@@ -105,7 +108,7 @@ The capstone course can be broken up into three phases.
 |             |     10/14     |                     | No Class, dedicated work time |
 |    10/18    |     10/21     | Project report № 5  | No Class, dedicated work time |
 |    10/25    |     10/28     | Project report № 6  | No Class, dedicated work time |
-|    11/01    |     11/04     | **Minimum Viable Product presentations** (1/2) | **Minimum Viable Product presentations** (2/2) | 
+|    11/01    |     11/04     | **MVP presentations** (1/2) | **MVP presentations** (2/2) | 
 |    11/08    |     11/11     | Project report № 7  | No Class, dedicated work time |
 |    11/15    |     11/18     | Project report № 8  | No Class, dedicated work time |
 |    11/22    |               | Project report № 9  |                               |
@@ -114,9 +117,9 @@ The capstone course can be broken up into three phases.
 |    12/13    |               | Project report № 12 |                               |
 
 
-## Grading
+# Grading
 
-Course grades will consist of *three* components:
+### Course grades will consist of *three* components:
 
 | Component              | Total Weight |
 |:-----------------------|:-------------|
@@ -147,6 +150,8 @@ The requirements for a final product will be revised based on the MVP presentati
 Note that removal of functionality from the final product is likely to negatively impact the scoring of the final repopt. Conversely, presenting additional functionality at the final product presentation will likely result in positive scoring impact. Presenting the exact final product specifications is considered **B-grade** work (`24/30` points).
 
 
+# Standard Information
+
 
 ## Academic Violations
 
@@ -172,6 +177,18 @@ Counseling & Wellness Services (CWS) provides mental health, health and wellness
 ## Special Needs
 
 Students with special needs should see me for accommodation.
+
+
+## Sexual Misconduct
+
+In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College.
+
+a. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline ([646-610-7272](tel:6466107272)) or their local police precinct, or contacting the College's Public Safety Office ([212-772-4444](tel:2127724444)).
+
+b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose ([jtrose@hunter.cuny.edu](jtrose@hunter.cuny.edu) or [212-650-3262](tel:2126503262)) or Colleen Barry ([colleen.barry@hunter.cuny.edu](colleen.barry@hunter.cuny.edu]) or [212-772-4534](tel:2127724534)) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf](http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf)
+
+
+# Legal Considerations
 
 
 ## ADA Compliance
@@ -209,15 +226,6 @@ Family Policy Compliance Office
 U.S. Department of Education
 400 Maryland Avenue, SW
 Washington, D.C. 20202-8520
-
-
-## Sexual Misconduct
-
-In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College.
-
-a. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline ([646-610-7272](tel:6466107272)) or their local police precinct, or contacting the College's Public Safety Office ([212-772-4444](tel:2127724444)).
-
-b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose ([jtrose@hunter.cuny.edu](jtrose@hunter.cuny.edu) or [212-650-3262](tel:2126503262)) or Colleen Barry ([colleen.barry@hunter.cuny.edu](colleen.barry@hunter.cuny.edu]) or [212-772-4534](tel:2127724534)) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf](http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf)
 
 
 [course-description ]: http://catalog.hunter.cuny.edu/search_advanced.php?cur_cat_oid=43&ecpage=1&cpage=1&ppage=1&pcpage=1&spage=1&tpage=1&search_database=Search&filter%5Bkeyword%5D=CSCI+49900&filter%5Bexact_match%5D=1&filter%5B3%5D=1&filter%5B31%5D=1
