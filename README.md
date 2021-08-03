@@ -2,18 +2,18 @@
 ## Hunter College of the City of New York
 ## Department of Computer Science
 
- | Key               | Value                                           |
- |:-|:--------|
- | **Instructor:**   | Alex Washburn                                   |
- | **Email:**        | [aw2918@hunter.cuny.edu][email]                 |
- | **Section:**      | [CSCI 49900/53432/5][course-description]        |
- | **Semester:**     | Fall 2021                                       |
- | **Credit Hours:** | 4 credits                                       |
- | **Time:**         | [Monday & Thursday 1:00pm - 3:00pm][class-time] |
- | **Office Hours:** | [Thursday 3:00pm - 4:00pm][office-time] or [by appointment][email] |
- | **Place:**        | Zoom                                            |
- | **Course Page:**  | [github.com/recursion-ninja/CSCI-499-2021-Fall][course-page] |
- | **Textbook:**     | None                                            |
+ | Key               | Value                                                                                       |
+ |:------------------|:--------------------------------------------------------------------------------------------|
+ | **Instructor:**   | Alex Washburn                                                                               |
+ | **Email:**        | [aw2918@hunter.cuny.edu][email]                                                             |
+ | **Section:**      | [CSCI 49900/53432/5][course-description]                                                    |
+ | **Semester:**     | Fall 2021                                                                                   |
+ | **Credit Hours:** | 4 credits                                                                                   |
+ | **Time:**         | [Monday & Thursday 1:00pm - 3:00pm][class-time]                                             |
+ | **Office Hours:** | [Thursday 3:00pm - 4:00pm][office-time] or [by appointment][email]                          |
+ | **Place:**        | Zoom                                                                                        |
+ | **Course Page:**  | [github.com/recursion-ninja/CSCI-499-2021-Fall][course-page]                                |
+ | **Textbook:**     | None                                                                                        |
 
 
 # Table of Contents
@@ -53,7 +53,7 @@ The instructor has extensive experience with functional programming and encourag
 
 The learning goals for the course are *two-fold;* understanding product development and learning collaborative software development techniques.
 
-Modern software product development tends to utilize *Agile* methodology to vearying degrees. Consequently, the course is structured in weekly "sprints." Each week teams plan what they will accomplish for the next week. After a week of work teams report on their progress, reassess feasibility of future work based on the progress of last week, and revise a new plan for the following week of work. The theory of this methodology is to provide rapid feedback and iteration for software development, so that minimal time is spend on "dead-end" feature which will not enhance the product.
+Modern software product development tends to utilize *Agile* methodology to varying degrees. Consequently, the course is structured in weekly "sprints." Each week teams plan what they will accomplish for the next week. After a week of work teams report on their progress, reassess feasibility of future work based on the progress of last week, and revise a new plan for the following week of work. The theory of this methodology is to provide rapid feedback and iteration for software development, so that minimal time is spend on "dead-end" feature which will not enhance the product.
 
 Collaborative software develompment is a crucial skill for any computer science major, regardless of their intended plans after graduation. This course will require students to use `git`, facilitated by GitHub, to add, modify, and merge code while developing their product. Additionally, and equally important, is the ability to communicate clearly and promptly with team mates to facilitate and coordinate tasks. Teams are expected to develop their own, preferred communication channels, be that email, IRC, Slack, Discord, BlackBoard, or another agreed upon medium.
 
@@ -97,9 +97,9 @@ The capstone course can be broken up into three phases.
 # Course Schedule
 
 | **Mondays** | **Thursdays** | Monday Activities | Thursday Activities |
-|:----:|:----:|:-----------------|:--------------------|
+|:-----------:|:-----------:|:------------------------------------------|:------------------------------------------|
 |             |     08/26     |                     | Syllabus, GitHub, project brainsorming |
-|    08/30    |     09/02     | Group assignments, social contracts | No Class, dedicated work time |
+|    08/30    |     09/02     | Group assignments, social contracts, project definitions | No Class, dedicated work time |
 |             |     09/07     |                     | No Class, dedicated work time |
 |    09/13    |               | Project report № 1  |                               |
 |    09/20    |     09/23     | Project report № 2  | No Class, dedicated work time |
@@ -114,18 +114,39 @@ The capstone course can be broken up into three phases.
 |    11/22    |               | Project report № 9  |                               |
 |    11/29    |     12/02     | Project report № 10 | No Class, dedicated work time |
 |    12/06    |     12/09     | Project report № 11 | No Class, dedicated work time |
-|    12/13    |               | Project report № 12 |                               |
+|    12/13    |               | No Class, dedicated work time |                     |
+|    ??/??    |               | **Final presentations** |
+
+*Notes:*
+
+  - 12/13 is a normally scheduled class day. However, the instructor will be out of state presenting at a confrence. Rather than have a 12th project report, students will have an extra slot of class time for preparing their project and final presentaion.
+  - The final presentations will take place during the exam time for the course as determined by the registrar's office. At the time of writing this syllabus, the final examination time slots have yet to be declared.
+
+## Due Dates
+
+Assignments are due at **`11:59PM`** on the date specified below.
+
+| **Date**    | **Day**          | **Assignment**                     |
+|:-----------:|:-----------------|:-----------------------------------|
+|    08/27    |     Friday       | Skills and interests survey        |
+|    09/01    |     Wednesday    | GitHub account                     |
+|    09/03    |     Friday       | Social contract                    |
+|    09/03    |     Friday       | Product description                |
+|    10/31    |     Sunday       | MVP presentation script & slides   |
+|    ??/??    |     Unknown      | Final presentation script & slides |
 
 
 # Grading
 
-### Course grades will consist of *three* components:
-
-| Component              | Total Weight |
-|:-----------------------|:-------------|
-| Product Reporting      | 40%          |
-| Minimum Viable Product | 30%          |
-| Final Product          | 30%          |
+| Component               | Total Weight |
+|:------------------------|-------------:|
+| Skill & Interest Survey |  1%          |
+| GitHub Account          |  1%          |
+| Social Contract         |  2%          |
+| Product Definition      |  2%          |
+| Product Reporting       | 44%          |
+| Minimum Viable Product  | 25%          |
+| Final Product           | 25%          |
 
 
 ## Product Reporting
@@ -138,7 +159,7 @@ The minimum viable product (MVP) is the state of a project in which the basic fu
 
 The requirements for a MVP will be discussed and refined each week of product reporting with the instructor. If a previous MVP goals appear to have been too ambitious, some functionality maybe be deferred to the final product or removed entirely. If all previously established MVP functionality has been met prior to the MVP presentation date, the instructor and team will decide on additional functionality which can be implemented before the MVP presentation.
 
-Note that removal of significant functionality from an MVP is likely to negatively impact the scoring of the MVP repopt. Conversely, presenting additional functionality at the MVP presentation will likely result in positive scoring impact. Presenting the exact MVP specifications is considered **B-grade** work (`24/30` points).
+Note that removal of significant functionality from an MVP is likely to negatively impact the scoring of the MVP repopt. Conversely, presenting additional functionality at the MVP presentation will likely result in positive scoring impact. Presenting the exact MVP specifications is considered **B-grade** work (`20/25` points).
 
 
 ## Final Product
@@ -147,7 +168,7 @@ The final product is the state of a project in which all planned functionality c
 
 The requirements for a final product will be revised based on the MVP presentation and then subsequently discussed and refined each week of product reporting with the instructor. If previous final product goals appear to have been too ambitious, some functionality maybe be removed from the final product. If all previously established final product functionality has been met prior to the final presentation date, the instructor and team will decide on additional functionality which can be implemented before the final product presentation.
 
-Note that removal of functionality from the final product is likely to negatively impact the scoring of the final repopt. Conversely, presenting additional functionality at the final product presentation will likely result in positive scoring impact. Presenting the exact final product specifications is considered **B-grade** work (`24/30` points).
+Note that removal of functionality from the final product is likely to negatively impact the scoring of the final repopt. Conversely, presenting additional functionality at the final product presentation will likely result in positive scoring impact. Presenting the exact final product specifications is considered **B-grade** work (`20/25` points).
 
 
 # Standard Information
