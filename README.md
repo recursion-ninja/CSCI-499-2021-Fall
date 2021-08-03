@@ -174,15 +174,17 @@ Note that removal of functionality from the final product is likely to negativel
 # Standard Information
 
 
+## Email 
+
+Emails to the instructor must be via a CUNY Hunter College email addresses for [FERPA reasons](#family-educational-rights-and-privacy-act-ferpa).
+
+> **You must *include the class number* in the subject line of the email!**
+
+
 ## Academic Violations
 
 Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty. The college is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures.
 Special attention is given to CONTRACT CHEATING (this is where students have work completed on their behalf which is then submitted for academic credit).
-
-
-## Email 
-
-Emails to the instructor must be via a CUNY Hunter College email addresses for [FERPA reasons](#family-educational-rights-and-privacy-act-ferpa). **Include the class number in the subject line of the email.**
 
 
 ## Computer Science Facilities & Labs 
