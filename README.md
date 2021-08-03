@@ -20,7 +20,7 @@
 
   * [Overview](#Overview)
   * [Course Description](#course-description)
-  * [Course Schedule](#outline-and-schedule-of-course-topics)
+  * [Course Schedule](#course-schedule)
   * [Grading](#grading)
       * [Product Reporting](#product-reporting)
       * [Minimum Viable Product](#minimum-viable-product)
@@ -182,7 +182,7 @@ Special attention is given to CONTRACT CHEATING (this is where students have wor
 
 ## Email 
 
-Emails to the instructor must be via a CUNY Hunter College email addresses for [FERPA reasons](#family-educational-rights-and-privacy-act-ferpa). Also, include the class name or number in the subject line of the email.
+Emails to the instructor must be via a CUNY Hunter College email addresses for [FERPA reasons](#family-educational-rights-and-privacy-act-ferpa). **Include the class number in the subject line of the email.**
 
 
 ## Computer Science Facilities & Labs 
