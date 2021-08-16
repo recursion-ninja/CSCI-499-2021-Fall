@@ -9,19 +9,19 @@
  | **Section:**      | [CSCI 49900/53432/5][course-description]                                                    |
  | **Semester:**     | Fall 2021                                                                                   |
  | **Credit Hours:** | 4 credits                                                                                   |
+ | **Textbook:**     | None                                                                                        |
+ | **Format:**       | Online; Synchronous                                                                         |
  | **Time:**         | [Monday & Thursday 1:00pm - 3:00pm][class-time]                                             |
  | **Office Hours:** | [Thursday 3:00pm - 4:00pm][office-time] or [by appointment][email]                          |
- | **Place:**        | [Zoom Meeting ID: 891 9980 7340 Passcode: 0xC499FA11][zoom]                                 |
+ | **Zoom Info:**    | [Zoom Meeting ID: `891 9980 7340` Passcode: `0xC499FA11`][zoom]                             |
  | **Course Page:**  | [github.com/recursion-ninja/CSCI-499-2021-Fall][course-page]                                |
- | **Textbook:**     | None                                                                                        |
 
-[course-description ]: http://catalog.hunter.cuny.edu/search_advanced.php?cur_cat_oid=43&ecpage=1&cpage=1&ppage=1&pcpage=1&spage=1&tpage=1&search_database=Search&filter%5Bkeyword%5D=CSCI+49900&filter%5Bexact_match%5D=1&filter%5B3%5D=1&filter%5B31%5D=1
-[course-description2]: http://www.hunter.cuny.edu/csci/curriculum/hunter-college-computer-science-courses-and#cs493
-[course-page        ]: https://github.com/recursion-ninja/CSCI-499-2021-Fall
-[email              ]: mailto:aw2918@hunter.cuny.edu
-[zoom               ]: https://us02web.zoom.us/j/89199807340?pwd=Rnhwcktic0RCejJobG5ySmhyOXJHQT09
-[class-time         ]: https://time.is/compare/0100PM_in_New_York
-[office-time        ]: https://time.is/compare/0300PM_in_New_York
+[class-time        ]: https://time.is/compare/0100PM_in_New_York
+[course-description]: http://www.hunter.cuny.edu/csci/curriculum/hunter-college-computer-science-courses-and#cs493
+[course-page       ]: https://github.com/recursion-ninja/CSCI-499-2021-Fall
+[email             ]: mailto:aw2918@hunter.cuny.edu
+[office-time       ]: https://time.is/compare/0300PM_in_New_York
+[zoom              ]: https://us02web.zoom.us/j/89199807340?pwd=Rnhwcktic0RCejJobG5ySmhyOXJHQT09
 
 
 # Table of Contents
@@ -29,10 +29,11 @@
   * [Overview](#overview)
   * [Course Description](#course-description)
   * [Course Schedule](#course-schedule)
-  * [Grading](#grading)
+  * [Assignments](#assignments)
       * [Product Reporting](#product-reporting)
       * [Minimum Viable Product](#minimum-viable-product)
       * [Final Product](#final-product)
+  * [Grading](#grading)
   * [Standard Information](#standard-information)
       * [Academic Violations](#academic-violations)
       * [Email](#email)
@@ -130,6 +131,7 @@ The capstone course can be broken up into three phases.
   - 12/13 is a normally scheduled class day. However, the instructor will be out of state presenting at a confrence. Rather than have a 12th project report, students will have an extra slot of class time for preparing their project and final presentaion.
   - The final presentations will take place during the exam time for the course as determined by the registrar's office. At the time of writing this syllabus, the final examination time slots have yet to be declared.
 
+
 ## Due Dates
 
 Assignments are due at **`11:59PM`** on the date specified below.
@@ -144,29 +146,23 @@ Assignments are due at **`11:59PM`** on the date specified below.
 |    ??/??    |     Unknown      | Final presentation script & slides |
 
 
-# Grading
+# Assignments
 
-| Component               | Total Weight |
-|:------------------------|-------------:|
-| Skill & Interest Survey |  1%          |
-| GitHub Account          |  1%          |
-| Social Contract         |  2%          |
-| Product Definition      |  2%          |
-| Product Reporting       | 44%          |
-| Minimum Viable Product  | 25%          |
-| Final Product           | 25%          |
+| Course Component        | Weighted Score |
+|:------------------------|---------------:|
+| Skill & Interest Survey |   1%           |
+| GitHub Account          |   1%           |
+| Social Contract         |   2%           |
+| Product Definition      |   2%           |
+| Product Reporting       |  44%           |
+| Minimum Viable Product  |  25%           |
+| Final Product           |  25%           |
 
-| Letter Grade | Score |
-|:---------:|:---------|
-|     A     |   ≥ 90%  |
-|     B     |   ≥ 80%  |
-|     C     |   ≥ 70%  |
-|     D     |   ≥ 60%  |
-|     F     |   < 60%  |
 
 ## Product Reporting
 
 Each week students will report on the progress of their product. *Each* student is expected to report on the contributions they made since the *last* product report, and state their planned contributions to complete for the *next* project report. After team members have reported on their recent and tenetive contributions, the floor will be opened up for any team member to solicit assistance or feedback on one or more technical issues they are experiencing. The instructor or their peers will attempt to provide them with assistance addressing their issue(s). Students who can provide guidance to members of another tem will be given additional consideration on their project reporting for that week.
+
 
 ## Minimum Viable Product 
 
@@ -184,6 +180,19 @@ The final product is the state of a project in which all planned functionality c
 The requirements for a final product will be revised based on the MVP presentation and then subsequently discussed and refined each week of product reporting with the instructor. If previous final product goals appear to have been too ambitious, some functionality maybe be removed from the final product. If all previously established final product functionality has been met prior to the final presentation date, the instructor and team will decide on additional functionality which can be implemented before the final product presentation.
 
 Note that removal of functionality from the final product is likely to negatively impact the scoring of the final repopt. Conversely, presenting additional functionality at the final product presentation will likely result in positive scoring impact. Presenting the exact final product specifications is considered **B-grade** work (`20/25` points).
+
+
+# Grading
+
+| Grade | Score Earned |
+|:-----:|-------------:|
+|   A   |   `>=` 90%   |
+|   B   |   `>=` 80%   |
+|   C   |   `>=` 70%   |
+|   D   |   `>=` 60%   |
+|   F   |   `< ` 60%   |
+
+The letter grade earned by a student will be *at least* what is described in the table below. A plus or minus to a letter grade may be determined by the reletive performance of the student to their peers in the course, thier participation in helping peers in other teams with technical problems, and the team assesment at the end of the semester.
 
 
 # Standard Information
@@ -204,12 +213,16 @@ Special attention is given to CONTRACT CHEATING (this is where students have wor
 
 ## Computer Science Facilities & Labs 
 
-All computer science students can use any of the general-purpose labs throughout Hunter College. In addition, computer science majors and students enrolled in CSCI courses can an obtain an account on the Computer Science Department Network. More information can be found on the [Computer Science Department's website](http://www.hunter.cuny.edu/csci/about-cs/computer-science-facilities-labs).
+All computer science students can use any of the general-purpose labs throughout Hunter College. In addition, computer science majors and students enrolled in CSCI courses can an obtain an account on the Computer Science Department Network. More information can be found on the [Computer Science Department's website][cs-labs].
+
+[cs-labs]: http://www.hunter.cuny.edu/csci/about-cs/computer-science-facilities-labs
 
 
 ## Counseling & Wellness Services
 
-Counseling & Wellness Services (CWS) provides mental health, health and wellness services aimed at enhancing students' quality of life and maximizing personal and academic growth and development. More information can be found on the [Counseling & Wellness Services website](http://www.hunter.cuny.edu/studentservices/counseling-and-wellness).
+Counseling & Wellness Services (CWS) provides mental health, health and wellness services aimed at enhancing students' quality of life and maximizing personal and academic growth and development. More information can be found on the [Counseling & Wellness Services website][ref-CWS].
+
+[ref-CWS]: http://www.hunter.cuny.edu/studentservices/counseling-and-wellness
 
 
 ## Special Needs
@@ -221,9 +234,19 @@ Students with special needs should see me for accommodation.
 
 In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College.
 
-a. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline ([646-610-7272](tel:6466107272)) or their local police precinct, or contacting the College's Public Safety Office ([212-772-4444](tel:2127724444)).
+a. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline ([646-610-7272][phone-hotline]) or their local police precinct, or contacting the College's Public Safety Office ([212-772-4444][phone-safety]).
 
-b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose ([jtrose@hunter.cuny.edu](jtrose@hunter.cuny.edu) or [212-650-3262](tel:2126503262)) or Colleen Barry ([colleen.barry@hunter.cuny.edu](colleen.barry@hunter.cuny.edu]) or [212-772-4534](tel:2127724534)) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf](http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf)
+b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose ([jtrose@hunter.cuny.edu][email-rose] or [212-650-3262][phone-rose]) or Colleen Barry ([colleen.barry@hunter.cuny.edu][email-barry]) or [212-772-4534][phone-barry]) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link:
+
+[http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf][misconduct]
+
+[email-barry  ]: mailto:colleen.barry@hunter.cuny.edu
+[email-rose   ]: mailto:jtrose@hunter.cuny.edu
+[phone-barry  ]: tel:2127724534
+[phone-hotline]: tel:6466107272
+[phone-rose   ]: tel:2126503262
+[phone-safety ]: tel:2127724444
+[misconduct   ]: http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf
 
 
 # Legal Considerations
@@ -231,7 +254,10 @@ b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact
 
 ## ADA Compliance
 
-In compliance with the American Disability Act of 1990 (ADA) and with Section 504 of the Rehabilitation Act of 1973, Hunter College is committed to ensuring educational parity and accommodations for all students with documented disabilities and / or medical conditions. It is recommended that all students with documented disabilities (Emotional, Medical, Physical and / or Learning) consult the Office of Accessibility located in Room E1124 to secure necessary academic accommodations. For further information and assistance please call ([212-772-4857](tel:2127724857))/TTY ([212-650-3230](tel:2126503230)).
+In compliance with the American Disability Act of 1990 (ADA) and with Section 504 of the Rehabilitation Act of 1973, Hunter College is committed to ensuring educational parity and accommodations for all students with documented disabilities and / or medical conditions. It is recommended that all students with documented disabilities (Emotional, Medical, Physical and / or Learning) consult the Office of Accessibility located in Room E1124 to secure necessary academic accommodations. For further information and assistance please call ([212-772-4857][phone-ADA-1])/TTY ([212-650-3230][phone-ADA-2]).
+
+[phone-ADA-1]: tel:2127724857
+[phone-ADA-2]: tel:2126503230
 
 
 ## Family Educational Rights and Privacy Act (FERPA) 
@@ -256,16 +282,16 @@ After the hearing, if the school still decides not to amend the record, the pare
 
 Schools may disclose, without consent, "directory" information such as a student's name, address, telephone number, date and place of birth, honors and awards, and dates of attendance. However, schools must tell parents and eligible students about directory information and allow parents and eligible students a reasonable amount of time to request that the school not disclose directory information about them. Schools must notify parents and eligible students annually of their rights under FERPA. The actual means of notification (special letter, inclusion in a PTA bulletin, student handbook, or newspaper article) is left to the discretion of each school.
 
-For additional information, you may call [1-800-USA-LEARN](tel:8008725327) ([1-800-872-5327](tel:8008725327)) (voice). Individuals who use TDD may use the Federal Relay Service.
+For additional information, you may call [1-800-USA-LEARN][phone-LEARN] ([1-800-872-5327][phone-LEARN]) (voice). Individuals who use TDD may use the Federal Relay Service.
 
 Or you may contact us at the following address:
 
-Family Policy Compliance Office
-U.S. Department of Education
-400 Maryland Avenue, SW
-Washington, D.C. 20202-8520
 
-
+    Family Policy Compliance Office
+    U.S. Department of Education
+    400 Maryland Avenue, SW
+    Washington, D.C. 20202-8520
 
 [ferpa-law          ]: https://www.law.cornell.edu/cfr/text/34/part-99
 [ferpa-law-consent  ]: https://www.law.cornell.edu/cfr/text/34/99.31
+[phone-LEARN        ]: tel:8008725327
