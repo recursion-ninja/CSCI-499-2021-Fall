@@ -11,14 +11,22 @@
  | **Credit Hours:** | 4 credits                                                                                   |
  | **Time:**         | [Monday & Thursday 1:00pm - 3:00pm][class-time]                                             |
  | **Office Hours:** | [Thursday 3:00pm - 4:00pm][office-time] or [by appointment][email]                          |
- | **Place:**        | Zoom                                                                                        |
+ | **Place:**        | [Zoom Meeting ID: 891 9980 7340 Passcode: 0xC499FA11][zoom]                                 |
  | **Course Page:**  | [github.com/recursion-ninja/CSCI-499-2021-Fall][course-page]                                |
  | **Textbook:**     | None                                                                                        |
+
+[course-description ]: http://catalog.hunter.cuny.edu/search_advanced.php?cur_cat_oid=43&ecpage=1&cpage=1&ppage=1&pcpage=1&spage=1&tpage=1&search_database=Search&filter%5Bkeyword%5D=CSCI+49900&filter%5Bexact_match%5D=1&filter%5B3%5D=1&filter%5B31%5D=1
+[course-description2]: http://www.hunter.cuny.edu/csci/curriculum/hunter-college-computer-science-courses-and#cs493
+[course-page        ]: https://github.com/recursion-ninja/CSCI-499-2021-Fall
+[email              ]: mailto:aw2918@hunter.cuny.edu
+[zoom               ]: https://us02web.zoom.us/j/89199807340?pwd=Rnhwcktic0RCejJobG5ySmhyOXJHQT09
+[class-time         ]: https://time.is/compare/0100PM_in_New_York
+[office-time        ]: https://time.is/compare/0300PM_in_New_York
 
 
 # Table of Contents
 
-  * [Overview](#Overview)
+  * [Overview](#overview)
   * [Course Description](#course-description)
   * [Course Schedule](#course-schedule)
   * [Grading](#grading)
@@ -148,6 +156,13 @@ Assignments are due at **`11:59PM`** on the date specified below.
 | Minimum Viable Product  | 25%          |
 | Final Product           | 25%          |
 
+| Letter Grade | Score |
+|:---------:|:---------|
+|     A     |   ≥ 90%  |
+|     B     |   ≥ 80%  |
+|     C     |   ≥ 70%  |
+|     D     |   ≥ 60%  |
+|     F     |   < 60%  |
 
 ## Product Reporting
 
@@ -176,9 +191,9 @@ Note that removal of functionality from the final product is likely to negativel
 
 ## Email 
 
-Emails to the instructor must be via a CUNY Hunter College email addresses for [FERPA reasons](#family-educational-rights-and-privacy-act-ferpa).
+Emails to the instructor must be from a student's CUNY Hunter College email address to the instructor's CUNY email address [aw2918@hunter.cuny.edu][email] for [FERPA reasons](#family-educational-rights-and-privacy-act-ferpa).
 
-> **You must *include the class number* in the subject line of the email!**
+> **You must *include the class number* `CSCI-499` in the subject line of the email!**
 
 
 ## Academic Violations
@@ -251,12 +266,6 @@ U.S. Department of Education
 Washington, D.C. 20202-8520
 
 
-[course-description ]: http://catalog.hunter.cuny.edu/search_advanced.php?cur_cat_oid=43&ecpage=1&cpage=1&ppage=1&pcpage=1&spage=1&tpage=1&search_database=Search&filter%5Bkeyword%5D=CSCI+49900&filter%5Bexact_match%5D=1&filter%5B3%5D=1&filter%5B31%5D=1
-[course-description2]: http://www.hunter.cuny.edu/csci/curriculum/hunter-college-computer-science-courses-and#cs493
-[course-page        ]: https://github.com/recursion-ninja/CSCI-499-2021-Fall
-[email              ]: mailto:aw2918@hunter.cuny.edu
-[zoom               ]: link-later
-[class-time         ]: https://time.is/compare/0100PM_in_New_York
-[office-time        ]: https://time.is/compare/0300PM_in_New_York
+
 [ferpa-law          ]: https://www.law.cornell.edu/cfr/text/34/part-99
 [ferpa-law-consent  ]: https://www.law.cornell.edu/cfr/text/34/99.31
