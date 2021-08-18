@@ -128,7 +128,7 @@ The capstone course can be broken up into three phases.
 
 *Notes:*
 
-  - 12/13 is a normally scheduled class day. However, the instructor will be out of state presenting at a confrence. Rather than have a 12th project report, students will have an extra slot of class time for preparing their project and final presentaion.
+  - 12/13 is a normally scheduled class day. However, the instructor will be out of state presenting at a confrence. Rather than have a 12th project report, students will have an extra slot of class time for preparing their project and final presentation.
   - The final presentations will take place during the exam time for the course as determined by the registrar's office. At the time of writing this syllabus, the final examination time slots have yet to be declared.
 
 
@@ -194,7 +194,7 @@ Note that removal of functionality from the final product is likely to negativel
 |   D   |   `>=` 60%   |
 |   F   |   `< ` 60%   |
 
-The letter grade earned by a student will be *at least* what is described in the table above. A plus or minus to a letter grade may be determined by the reletive performance of the student to their peers in the course, thier participation in helping peers in other teams with technical problems, and the team assesment at the end of the semester.
+The letter grade earned by a student will be *at least* what is described in the table above. A plus or minus to a letter grade may be determined by the relative performance of the student to their peers in the course, their participation in helping peers in other teams with technical problems, and the team assessment at the end of the semester.
 
 
 # Standard Information
