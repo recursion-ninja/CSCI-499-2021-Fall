@@ -141,9 +141,10 @@ Assignments are due at **`11:59PM`** on the date specified below.
 |    08/27    |     Friday       | Skills and interests survey        |
 |    09/01    |     Wednesday    | GitHub account                     |
 |    09/03    |     Friday       | Social contract                    |
-|    09/03    |     Friday       | Product description                |
+|    09/03    |     Friday       | Product definition                 |
 |    10/31    |     Sunday       | MVP presentation script & slides   |
 |    ??/??    |     Unknown      | Final presentation script & slides |
+|    ??/??    |     Unknown      | Peer assessment                    |
 
 
 # Assignments
@@ -152,11 +153,12 @@ Assignments are due at **`11:59PM`** on the date specified below.
 |:------------------------|---------------:|
 | Skill & Interest Survey |   1%           |
 | GitHub Account          |   1%           |
-| Social Contract         |   2%           |
+| Social Contract         |   1%           |
 | Product Definition      |   2%           |
 | Product Reporting       |  44%           |
 | Minimum Viable Product  |  25%           |
 | Final Product           |  25%           |
+| Peer Assessment         |   1%           |
 
 
 ## Product Reporting
@@ -192,7 +194,7 @@ Note that removal of functionality from the final product is likely to negativel
 |   D   |   `>=` 60%   |
 |   F   |   `< ` 60%   |
 
-The letter grade earned by a student will be *at least* what is described in the table below. A plus or minus to a letter grade may be determined by the reletive performance of the student to their peers in the course, thier participation in helping peers in other teams with technical problems, and the team assesment at the end of the semester.
+The letter grade earned by a student will be *at least* what is described in the table above. A plus or minus to a letter grade may be determined by the reletive performance of the student to their peers in the course, thier participation in helping peers in other teams with technical problems, and the team assesment at the end of the semester.
 
 
 # Standard Information
@@ -236,7 +238,7 @@ In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirm
 
 a. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline ([646-610-7272][phone-hotline]) or their local police precinct, or contacting the College's Public Safety Office ([212-772-4444][phone-safety]).
 
-b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose ([jtrose@hunter.cuny.edu][email-rose] or [212-650-3262][phone-rose]) or Colleen Barry ([colleen.barry@hunter.cuny.edu][email-barry]) or [212-772-4534][phone-barry]) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link:
+b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose ([jtrose@hunter.cuny.edu][email-rose] or [212-650-3262][phone-rose]) or Colleen Barry ([colleen.barry@hunter.cuny.edu][email-barry] or [212-772-4534][phone-barry]) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link:
 
 [http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf][misconduct]
 
