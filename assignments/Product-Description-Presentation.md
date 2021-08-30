@@ -16,30 +16,30 @@ The presentation order of groups will be determined randomly.
 
 Aim to spend in between 30s and 1min per slide of content.
 
-    - Project Title in large. Your name, the course name/number for context, the date (smaller).
-    - Introduction / Example
-       - Give us an example of what your app will look like or how it will be used with a user story.
-       - Grab our attention and make us interested in your app
-    - Product Definition
-       - Vision, target audience, problem, strategy and goals
-       - Each word you add to a product definition is a point you are trying to make about your project.
-       - What is your app's unique value proposition?
-    - For each point in your product definition, spend 1-2 slides detailing it.
-       - example: "our strategy is a mobile application. We want it to be mobile because our users will often be outside, where phones are more accessible than laptops or desktops. We want it to be an application as opposed to a mobile-friendly website because we need access to the local storage, camera, and location information, which our research shows is more complicated to access from a browser. After researching our options and consulting with the strengths of the team members, we've decided to use the React Native as it lets use develop for both iOS and Android."
-       - Try to illustrate your points with pictures as much as with words.
-       - example: to illustrate 'user-friendly' use mock-UIs (mock-UIs in general are useful and strongly recommended for the proposal)
-       - Each point of the product definition is important, but pay particular attention to explaining your goals. Having well defined goals provides accountability for the team.
-    - A few slides describing what technologies and platforms you plan to use.
-       - Web, mobile, or something else
-       - Front end UI
-       - Back end, database infrastructure
-       - Data source/API
-    - A few slides with the description of work distribution.
-       - What are the strengths of each student in the team?
-       - What aspect of the project will each student be responsible for? 
-    - A few slides on your project plan and timeline
-       - What are the features you are targeting for the MVP?
-       - What are the nice-to-have features that you plan to include after the MVP?
+   - Project Title in large. Your name, the course name/number for context, the date (smaller).
+   - Introduction / Example
+      - Give us an example of what your app will look like or how it will be used with a user story.
+      - Grab our attention and make us interested in your app
+   - Product Definition
+      - Vision, target audience, problem, strategy and goals
+      - Each word you add to a product definition is a point you are trying to make about your project.
+      - What is your app's unique value proposition?
+   - For each point in your product definition, spend 1-2 slides detailing it.
+      - example: "our strategy is a mobile application. We want it to be mobile because our users will often be outside, where phones are more accessible than laptops or desktops. We want it to be an application as opposed to a mobile-friendly website because we need access to the local storage, camera, and location information, which our research shows is more complicated to access from a browser. After researching our options and consulting with the strengths of the team members, we've decided to use the React Native as it lets use develop for both iOS and Android."
+      - Try to illustrate your points with pictures as much as with words.
+      - example: to illustrate 'user-friendly' use mock-UIs (mock-UIs in general are useful and strongly recommended for the proposal)
+      - Each point of the product definition is important, but pay particular attention to explaining your goals. Having well defined goals provides accountability for the team.
+   - A few slides describing what technologies and platforms you plan to use.
+      - Web, mobile, or something else
+      - Front end UI
+      - Back end, database infrastructure
+      - Data source/API
+   - A few slides with the description of work distribution.
+      - What are the strengths of each student in the team?
+      - What aspect of the project will each student be responsible for? 
+   - A few slides on your project plan and timeline
+      - What are the features you are targeting for the MVP?
+      - What are the nice-to-have features that you plan to include after the MVP?
 
 **Note:** All the work you do for the slides should be useful preliminary research work for your project. Your mentality should be: you are planning out the project first, and presenting the plan to us second.
 
@@ -85,8 +85,13 @@ Having a script for public presentations serves multiple purposes:
     - Helps you during the presentation. If you lose track of what you wanted to say, you can just check the script.
 
 ### Additional resources:
+
 https://uxdesign.cc/how-to-conduct-user-interviews-fe4b8c34b0b7
+
 https://medium.springboard.com/the-art-of-the-user-interview-cf40d1ca62e8
+
 https://www.ycombinator.com/library/6g-how-to-talk-to-users
+
 https://about.gitlab.com/handbook/engineering/ux/ux-research-training/discussion-guide-user-interviews/
+
 https://www.business2community.com/mobile-apps/how-to-lead-productive-user-interviews-for-your-mobile-app-02184885
