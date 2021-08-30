@@ -109,7 +109,7 @@ The capstone course can be broken up into three phases.
 |:-----------:|:-----------:|:------------------------------------------|:------------------------------------------|
 |             |     08/26     |                     | Syllabus, GitHub, project brainsorming |
 |    08/30    |     09/02     | Group assignments, social contracts | No Class, dedicated work time |
-|             |     09/07     |                     | Product definition presentations |
+|             |     09/09     |                     | Product definition presentations |
 |    09/13    |               | Project report № 1  |                               |
 |    09/20    |     09/23     | Project report № 2  | No Class, dedicated work time |
 |    09/27    |     09/30     | Project report № 3  | No Class, dedicated work time |
@@ -141,7 +141,7 @@ Assignments are due at **`11:59PM`** on the date specified below.
 |    08/27    |     Friday       | Skills and interests survey        |
 |    09/01    |     Wednesday    | GitHub account                     |
 |    09/03    |     Friday       | Social contract                    |
-|    09/06    |     Friday       | Product definition presentation    |
+|    09/08    |     Wednesday    | Product definition presentation    |
 |    10/31    |     Sunday       | MVP presentation script & slides   |
 |    ??/??    |     Unknown      | Final presentation script & slides |
 |    ??/??    |     Unknown      | Peer assessment                    |
