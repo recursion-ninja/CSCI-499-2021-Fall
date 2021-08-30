@@ -1,5 +1,5 @@
 
-| Member  | Successes | Issues   | Goals    |
+| Member  | Progress  | Issues   | Action Items |
 |:--------|:----------|:---------|:---------|
 | Alice   | Implemented feature X   | None                 | Implement feature Y |
 | Bob     | Progress on feature Z   | API integration woes | Finish feature Z    |
