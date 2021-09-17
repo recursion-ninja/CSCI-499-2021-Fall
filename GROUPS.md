@@ -1,4 +1,4 @@
-## Website/app for image sharing (simple instagram)
+## Lens Cleanse
 
  - Mena Bebawy
  - Nursima Donuk
@@ -6,7 +6,7 @@
  - Jiaying Wu 
 
 
-## Website for book recommendations
+## Recommendation Website
 
  - Fariha Hossain
  - Nuzhat Khan
@@ -14,7 +14,7 @@
  - Lakshmi Palchuri
 
 
-## Website implementing the game "Codenames"
+## "Codenames" the Website
 
  - Stephanie Bravo
  - Amy Ghotra
@@ -23,7 +23,7 @@
  - Kevin Xie
 
 
-## Website/app for travel bookings and activity recommendations
+## Reservify
 
  - Ivan Bilyk
  - Istiaque Khan
@@ -31,7 +31,7 @@
  - Hayley Robinson
 
 
-## App for converting lecture audio to study notes
+## Study Buddy
 
  - Vladimir Andreev
  - Boubacar Diallo
@@ -40,7 +40,7 @@
  - Alex Taradachuk
 
 
-## Website/app with personal clothing inventory and outfit recommendations from weather
+## Drip Me Out
 
  - Rachel Tieu
  - Hashir Khan
@@ -48,7 +48,7 @@
  - Michael Wong
 
 
-## Stock market API investment practice with fake money
+## Stock Mocket
 
  - Dibba Roy
  - Dewan Sunnah
