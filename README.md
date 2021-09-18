@@ -143,8 +143,8 @@ Assignments are due at **`11:59PM`** on the date specified below.
 |    09/03    |     Friday       | Social contract                    |
 |    09/08    |     Wednesday    | Product definition presentation    |
 |    10/31    |     Sunday       | MVP presentation script & slides   |
-|    ??/??    |     Unknown      | Final presentation script & slides |
-|    ??/??    |     Unknown      | Peer assessment                    |
+|    12/15    |     Wednesday    | Final presentation script & slides |
+|    12/20    |     Sunday       | Peer assessment                    |
 
 
 # Assignments
