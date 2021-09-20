@@ -123,7 +123,7 @@ The capstone course can be broken up into three phases.
 |    11/22    |               | Project report № 9  |                               |
 |    11/29    |     12/02     | Project report № 10 | No Class, dedicated work time |
 |    12/06    |     12/09     | Project report № 11 | No Class, dedicated work time |
-|    12/13    |     12/16     | No Class, dedicated work time  **Final presentations** |
+|    12/13    |     12/16     | No Class, dedicated work time | **Final presentations** |
 *Notes:*
 
   - 12/13 is a normally scheduled class day. However, the instructor will be out of state presenting at a confrence. Rather than have a 12th project report, students will have an extra slot of class time for preparing their project and final presentation.
