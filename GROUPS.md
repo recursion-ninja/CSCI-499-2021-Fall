@@ -30,12 +30,15 @@
 
 #### M.V.P.
   - [ ] Have minimally functional backend REST endpoints
-  - [ ] User profiles available
+  - User profiles available
+      - [ ] Registration/Authentication
+      - [ ] Minimal dashboard
   - Minimal pages for:
       - [ ] Pick Genre
       - [ ] Take Quiz
+      - [ ] Surprise Me (Random)
       - [ ] Search
-  - [ ] Working recommendation algorithm
+  - [ ] Minimal recommendation algorithm
 
 #### Final
   - Functional pages for:
