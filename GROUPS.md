@@ -142,7 +142,7 @@
 #### M.V.P.
   - [ ] Weather API integration
   - [ ] User inventory databases
-  - [ ] Generate generate a relevant outﬁt
+  - [ ] Generate a relevant outﬁt
 
 #### Final
   - [ ] Return alternative cothing fitting weather criteria
