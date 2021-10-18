@@ -94,9 +94,10 @@
   - [ ] Activity Finder
   - [ ] Able to write reviews
   - [ ] Search Function
-  - [ ] Able to book an activity
+  - [ ] Minimal purchase/booking
 
 #### Final
+  - [ ] Fully functional purchase booking
   - [ ] A price comparison for the bookings
   - [ ] API implementations of hotels (AirBnB, Expedia, etc...)
 
