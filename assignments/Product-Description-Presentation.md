@@ -81,7 +81,7 @@ For each slide, you should write in full sentences what you plan on saying, and 
 
 Having a script for public presentations serves multiple purposes:
 
-    - Horces you to think about what exactly you will be saying. In turn this provides self-feedback and practice of sorts, making for better presentations.
+    - Forces you to think about what exactly you will be saying. In turn this provides self-feedback and practice of sorts, making for better presentations.
     - Helps you during the presentation. If you lose track of what you wanted to say, you can just check the script.
 
 ### Additional resources:
