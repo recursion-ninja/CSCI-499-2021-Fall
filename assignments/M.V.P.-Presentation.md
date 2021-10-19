@@ -28,13 +28,13 @@ At the end of your presentation, we should all understand the existing functiona
 
 ### Instructions
 
-  - Walk us through how users would use your project.
+  - Walk us through how users would use your product.
   - Tell us a story from a user's perspective
 
 
 ### Goals of the demo
 
-  - Convince the audience that your project achieves its stated MVP goals. 
+  - Convince the audience that your product achieves its stated MVP goals. 
   - Become comfortable giving presentations on your work
 
 
@@ -59,7 +59,7 @@ Consider the following example slide deck.
 **Slide 3**
 > Remaining work.
 > Because this is a mid-semester demo, you won't have finished everything.
-> Define the next steps in your project, in order to fulfill the goals of your product definition, and present them.
+> Define the next steps for your product, in order to fulfill the goals of your product definition, and present them.
 > **Include a bulleted list of functionality for your final product presentation.**
 
 **Slide 4 and beyond** *(all optional)*
