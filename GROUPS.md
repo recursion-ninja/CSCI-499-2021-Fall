@@ -7,14 +7,25 @@
   - Jiaying Wu
 
 #### M.V.P.
-  - [ ] Public main/front page
-  - [ ] Public view of photo posts
-  - [ ] Post a photo and data related to that image
-  - [ ] Photos persistently stored in database
+  - [🗸] Public main/front page
+  - [🗸] Public view of photo posts
+  - [🗸] Post a photo and data related to that image
+  - [🗸] Photos persistently stored in database
 
 #### Final
-  - [ ] Capture (like/favorite) photos
   - [ ] Comment on photo posts
+  - [ ] Capture (like/favorite) photos
+    - [ ] Only "Capture" once per user
+  - [ ] Edit posts
+  - [ ] Delete posts
+  - [ ] Displayed timestamp on posts
+  - [ ] Personalized user proﬁles
+  - [ ] Hosted on FireBase
+
+#### Stretch
+  - [ ] Intrest survey
+  - [ ] Similar intrest matching
+  - [ ] Chat/DM functionality
 
 
 ---
@@ -29,16 +40,16 @@
   - Lakshmi Palchuri
 
 #### M.V.P.
-  - [ ] Have minimally functional backend REST endpoints
+  - [🗸] Have minimally functional backend REST endpoints
   - User profiles available
-      - [ ] Registration/Authentication
-      - [ ] Minimal dashboard
+      - [🗸] Registration/Authentication
+      - [🗸] Minimal dashboard
   - Minimal pages for:
-      - [ ] Pick Genre
-      - [ ] Take Quiz
-      - [ ] Surprise Me (Random)
-      - [ ] Search
-  - [ ] Minimal recommendation algorithm
+      - [🗸] Pick Genre
+      - [🗸] Take Quiz
+      - [🗸] Surprise Me (Random)
+      - [🗸] Search
+  - [🗸] Minimal recommendation algorithm
 
 #### Final
   - Functional pages for:
@@ -51,6 +62,13 @@
       - [ ] Enable user comments for media
       - [ ] Support pictures/links in media comments
   - [ ] External links to purchase options
+  - [ ] Genre-specific recomendation quiz
+  - [ ] User dashboard
+      - [ ] Top 10 list
+      - [ ] Read list
+
+#### Stretch
+  - [ ] Expanded database
 
 
 ---
@@ -67,19 +85,29 @@
 
 #### M.V.P.
   - Minimal frontend pages
-      - [ ] Landing
-      - [ ] User info
-      - [ ] Game
-  - [ ] Connect frontend and backend
-  - [ ] Connect backend and database
+      - [X] Landing
+      - [X] User info
+      - [X] Game
+  - [X] Connect frontend and backend
+  - [X] Connect backend and database
   - Generate game sessions
-      - [ ] Create room and assign unique ID
-      - [ ] Select random words from word bank and assign to team
-      - [ ] Allow users to join room
-  - [ ] Django working on backend
+      - [X] Create room and assign unique ID
+      - [X] Select random words from word bank and assign to team
+      - [X] Allow users to join room
+  - [X] Django working on backend
 
 #### Final
-  - [ ] Working game?
+  - [ ] Concurrent, multiplayer game-state updates
+  - [ ] Team and role selection, limit 1 spymaster
+  - [ ] Spymaster cluebox
+  - [ ] Player minimum of 4
+  - [ ] Propper turn passing
+  - [ ] Assassin win condition
+  - [ ] Point win condition
+
+
+#### Stretch
+  - [ ] Multiple games simultaneously
 
 
 ---
@@ -94,15 +122,18 @@
   - Hayley Robinson
 
 #### M.V.P.
-  - [ ] Activity Finder
+  - [X] Activity Finder
+  - [X] Search Function
+  - [X] Minimal purchase/booking
   - [ ] Able to write reviews
-  - [ ] Search Function
-  - [ ] Minimal purchase/booking
 
 #### Final
   - [ ] Fully functional purchase booking
   - [ ] A price comparison for the bookings
-  - [ ] API implementations of hotels (AirBnB, Expedia, etc...)
+  - [ ] Receipt emails
+  - [ ] Purchase/transaction log
+
+#### Stretch
 
 
 ---
@@ -118,17 +149,23 @@
   - Alex Taradachuk
 
 #### M.V.P.
-  - [ ] Uploading audio ﬁles
-  - [ ] Transcribing audio ﬁles to text
-  - [ ] Generating study notes
-  - [ ] Authentication functionality
-  - [ ] CRUD operations with user data
-  - [ ] Search feature
+  - [X] Uploading audio ﬁles
+  - [X] Transcribing audio ﬁles to text
+  - [X] Generating study notes
+  - [X] Authentication functionality
+  - [X] CRUD operations with user data
+  - [X] Search feature
 
 #### Final
-  - [ ] Sharing and collaboration
-  - [ ] Creating extra study tools
+  - [ ] In-app recording
+  - [ ] Video to transcript
   - [ ] Spaced learning reminders
+  - [ ] Sharing and collaboration
+    - [ ] Export notes to text?
+  - [ ] Creating extra study tools
+    - [ ] Flash cards
+
+#### Stretch
 
 
 ---
@@ -143,14 +180,21 @@
   - Michael Wong
 
 #### M.V.P.
-  - [ ] Weather API integration
-  - [ ] User inventory databases
-  - [ ] Generate a relevant outﬁt
+  - [X] Weather API integration
+  - [X] User inventory databases
+  - [X] Generate a relevant outﬁt
 
 #### Final
-  - [ ] Return alternative cothing fitting weather criteria
-  - [ ] Ability to ﬁlter clothing
   - [ ] Save outﬁts
+  - [ ] Manually create outfit
+  - [ ] Edit profile
+  - [ ] Ability to filter clothing
+  - [ ] Edit  closet items
+  - [ ] Delete closet items
+
+#### Stretch
+  - [ ] Celcius/Fahrenheit in user profile
+  - [ ] Generate outfit based on weather in future
 
 
 ---
@@ -166,16 +210,19 @@
   - Shu Qiang Wu
 
 #### M.V.P.
-  - [ ] Basic user accounts
-  - [ ] Balances, deposits and withdrawals
-  - [ ] Current price of stocks, portfolio value
-  - [ ] Buying and selling stocks
-  - [ ] Search for stocks
+  - [X] Basic user accounts
+  - [X] Balances, deposits and withdrawals
+  - [X] Current price of stocks, portfolio value
+  - [X] Buying and selling stocks
+  - [X] Search for stocks
 
 #### Final
   - [ ] Graph visualizations
-  - [ ] 2FA
-  - [ ] Stock discussion fora
-  - [ ] Stock Likes/Dislikes
-  - [ ] All trading options ex: options
   - [ ] Latest new cycle
+  - [ ] All trading options ex: options
+  - [ ] Net gain/loss
+  - [ ] Transaction history
+
+#### Stretch
+  - [ ] 2FA
+  - [ ] Stock Likes/Dislikes
