@@ -1,4 +1,4 @@
-## Lens Cleanse
+## P[0] = Lens Cleanse
 
 #### Members
   - Mena Bebawy
@@ -31,7 +31,7 @@
 ---
 
 
-## Bookmarked
+## P[1] = Bookmarked
 
 #### Members
   - Fariha Hossain
@@ -74,7 +74,7 @@
 ---
 
 
-## "Codenames" the Website
+## P[2] = "Codenames" the Website
 
 #### Members
   - Stephanie Bravo
@@ -113,7 +113,7 @@
 ---
 
 
-## Reservify
+## P[3] = Reservify
 
 #### Members
   - Ivan Bilyk
@@ -139,7 +139,7 @@
 ---
 
 
-## Study Buddy
+## P[4] = Study Buddy
 
 #### Members
   - Vladimir Andreev
@@ -171,7 +171,7 @@
 ---
 
 
-## Drip Me Out
+## P[5] = Drip Me Out
 
 #### Members
   - Rachel Tieu
@@ -200,7 +200,7 @@
 ---
 
 
-## Stock Mocket
+## P[6] = Stock Mocket
 
 #### Members
   - Dibba Roy

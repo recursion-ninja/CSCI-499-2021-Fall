@@ -4,11 +4,15 @@ Each team will give a 10-15 minute presentation, detailing their progress made a
 
 At the end of your presentation, we should all understand the existing functionality of your product as well as the functionality which has yet to be implemented.
 
-**Note:** The presentation should include a live demo of your product's functionality.
-
 **Note:** The presentation order of groups will be determined randomly.
 
+**Note:** The presentation should include a live demo of your product's functionality.
+
 **Note:** Each student in the team has to speak during the presentation.
+
+**Note:** The slide deck should include a list of functionality for your final product.
+
+**Note:** The slide deck should include a link to your GitHub repository.
 
 **Note:** Ensure that the code used in your demo has been pushed to GitHub.
 
