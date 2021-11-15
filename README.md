@@ -123,10 +123,10 @@ The capstone course can be broken up into three phases.
 |    11/22    |               | Project report № 9  |                               |
 |    11/29    |     12/02     | Project report № 10 | No Class, dedicated work time |
 |    12/06    |     12/09     | Project report № 11 | No Class, dedicated work time |
-|    12/13    |     12/16     | No Class, dedicated work time | **Final presentations** |
+|    12/13    |     12/16     | **Final presentations (1/2)** | **Final presentations** (2/2) |
 *Notes:*
 
-  - 12/13 is a normally scheduled class day. However, the instructor will be out of state presenting at a confrence. Rather than have a 12th project report, students will have an extra slot of class time for preparing their project and final presentation.
+  - 12/13 The instructor will be out of state presenting at a confrence. We will have class for the first round of final presentations and hope that there are no connectivity troubles.
   - The final presentations will take place 12/16/21 from 1:45 – 3:45 pm per the [registrar's posting][final-times].
 
 [final-times]: https://hunter.cuny.edu/students/registration/academic-calendar/final-exam-schedule
@@ -181,7 +181,7 @@ The final product is the state of a project in which all planned functionality c
 
 The requirements for a final product will be revised based on the MVP presentation and then subsequently discussed and refined each week of product reporting with the instructor. If previous final product goals appear to have been too ambitious, some functionality maybe be removed from the final product. If all previously established final product functionality has been met prior to the final presentation date, the instructor and team will decide on additional functionality which can be implemented before the final product presentation.
 
-Note that removal of functionality from the final product is likely to negatively impact the scoring of the final repopt. Conversely, presenting additional functionality at the final product presentation will likely result in positive scoring impact. Presenting the exact final product specifications is considered **B-grade** work (`20/25` points).
+Note that removal of functionality from the final product is likely to negatively impact the scoring of the final repopt. Conversely, presenting additional functionality at the final product presentation will likely result in positive scoring impact. Presenting the exact final product specifications is considered **B+ grade** work (`22/25` points).
 
 
 # Grading

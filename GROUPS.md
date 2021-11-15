@@ -20,12 +20,13 @@
   - [ ] Delete posts
   - [ ] Displayed timestamp on posts
   - [ ] Personalized user proﬁles
+    - [ ] Display metadata (contact/captures/post count)
+    - [ ] List all posts (by time? by captures?)
   - [ ] Hosted on FireBase
 
 #### Stretch
-  - [ ] Intrest survey
-  - [ ] Similar intrest matching
   - [ ] Chat/DM functionality
+  - [ ] Draft posts
 
 
 ---
@@ -56,19 +57,21 @@
       - [ ] Pick Genre
       - [ ] Take Quiz
       - [ ] Search
-  - Profiles for media items
-      - [ ] Picture of media
-      - [ ] Media metatdata entries authors and/or synopsis
+  - Blog for media
       - [ ] Enable user comments for media
       - [ ] Support pictures/links in media comments
+      - [ ] Suggest an external post
   - [ ] External links to purchase options
   - [ ] Genre-specific recomendation quiz
   - [ ] User dashboard
       - [ ] Top 10 list
-      - [ ] Read list
+      - [ ] Read log
+      - [ ] Bookshelf
 
 #### Stretch
   - [ ] Expanded database
+  - [ ] Flim/other media
+  - [ ] Up/down votes on books
 
 
 ---
@@ -85,16 +88,16 @@
 
 #### M.V.P.
   - Minimal frontend pages
-      - [X] Landing
-      - [X] User info
-      - [X] Game
-  - [X] Connect frontend and backend
-  - [X] Connect backend and database
+      - [🗸] Landing
+      - [🗸] User info
+      - [🗸] Game
+  - [🗸] Connect frontend and backend
+  - [🗸] Connect backend and database
   - Generate game sessions
-      - [X] Create room and assign unique ID
-      - [X] Select random words from word bank and assign to team
-      - [X] Allow users to join room
-  - [X] Django working on backend
+      - [🗸] Create room and assign unique ID
+      - [🗸] Select random words from word bank and assign to team
+      - [🗸] Allow users to join room
+  - [🗸] Django working on backend
 
 #### Final
   - [ ] Concurrent, multiplayer game-state updates
@@ -102,12 +105,14 @@
   - [ ] Spymaster cluebox
   - [ ] Player minimum of 4
   - [ ] Propper turn passing
-  - [ ] Assassin win condition
+  - [ ] Double-agent win condition
   - [ ] Point win condition
 
 
 #### Stretch
   - [ ] Multiple games simultaneously
+  - [ ] Animated actions
+  - [ ] Deployment
 
 
 ---
@@ -122,9 +127,9 @@
   - Hayley Robinson
 
 #### M.V.P.
-  - [X] Activity Finder
-  - [X] Search Function
-  - [X] Minimal purchase/booking
+  - [🗸] Activity Finder
+  - [🗸] Search Function
+  - [🗸] Minimal purchase/booking
   - [ ] Able to write reviews
 
 #### Final
@@ -134,6 +139,7 @@
   - [ ] Purchase/transaction log
 
 #### Stretch
+  - [ ] Location-based recommendations
 
 
 ---
@@ -149,23 +155,26 @@
   - Alex Taradachuk
 
 #### M.V.P.
-  - [X] Uploading audio ﬁles
-  - [X] Transcribing audio ﬁles to text
-  - [X] Generating study notes
-  - [X] Authentication functionality
-  - [X] CRUD operations with user data
-  - [X] Search feature
+  - [🗸] Uploading audio ﬁles
+  - [🗸] Transcribing audio ﬁles to text
+  - [🗸] Generating study notes
+  - [🗸] Authentication functionality
+  - [🗸] CRUD operations with user data
+  - [🗸] Search feature
 
 #### Final
   - [ ] In-app recording
   - [ ] Video to transcript
   - [ ] Spaced learning reminders
   - [ ] Sharing and collaboration
-    - [ ] Export notes to text?
+    - [ ] Course sharing
   - [ ] Creating extra study tools
     - [ ] Flash cards
 
 #### Stretch
+  - [ ] Export notes to text
+  - [ ] Deployment via website
+  - [ ] Model tuning via lecture data set
 
 
 ---
@@ -180,16 +189,16 @@
   - Michael Wong
 
 #### M.V.P.
-  - [X] Weather API integration
-  - [X] User inventory databases
-  - [X] Generate a relevant outﬁt
+  - [🗸] Weather API integration
+  - [🗸] User inventory databases
+  - [🗸] Generate a relevant outﬁt
 
 #### Final
   - [ ] Save outﬁts
   - [ ] Manually create outfit
   - [ ] Edit profile
   - [ ] Ability to filter clothing
-  - [ ] Edit  closet items
+  - [ ] Edit closet items
   - [ ] Delete closet items
 
 #### Stretch
@@ -210,11 +219,11 @@
   - Shu Qiang Wu
 
 #### M.V.P.
-  - [X] Basic user accounts
-  - [X] Balances, deposits and withdrawals
-  - [X] Current price of stocks, portfolio value
-  - [X] Buying and selling stocks
-  - [X] Search for stocks
+  - [🗸] Basic user accounts
+  - [🗸] Balances, deposits and withdrawals
+  - [🗸] Current price of stocks, portfolio value
+  - [🗸] Buying and selling stocks
+  - [🗸] Search for stocks
 
 #### Final
   - [ ] Graph visualizations
@@ -222,6 +231,8 @@
   - [ ] All trading options ex: options
   - [ ] Net gain/loss
   - [ ] Transaction history
+  - [ ] Stock watchlist
+  - [ ] Diversity pie chart
 
 #### Stretch
   - [ ] 2FA
